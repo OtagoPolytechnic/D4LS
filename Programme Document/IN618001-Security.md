@@ -1,5 +1,7 @@
 ## Security
 
+|                 |          |                                         |     |
+|-----------------|----------|-----------------------------------------|-----|
 | *SMS Code*      | IN618001 | *Directed Learning Hours*               | 60  |
 | *Level*         | 6        | *Workplace or Practical Learning Hours* | nil |
 | *Credits*       | 15       | *Self-Directed Learning Hours*          | 90  |
@@ -32,6 +34,7 @@ At the successful completion of the course, students will be able to:
 ## Assessment
 
 | **Assessment Activity** | **Weighting** | **Learning Outcomes** |
+|-------------------------|---------------|-----------------------|
 | Lab activities          | 40%           |                       |
 | Security Audit          | 40%           |                       |
 | Exam                    | 20%           |                       |
