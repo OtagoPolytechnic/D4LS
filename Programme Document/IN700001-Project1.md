@@ -5,7 +5,7 @@
 | *SMS Code*      | IN700001 | *Directed Learning Hours*               | 15  |
 | *Level*         | 7        | *Workplace or Practical Learning Hours* | nil |
 | *Credits*       | 15       | *Self-Directed Learning Hours*          | 135 |
-| *Prerequisites* | INR602001, 90 L6 credits and 120 L5 credits | *Total Learning Hours*                  | 150 |
+| *Prerequisites* | IN602001, 90 L6 credits and 120 L5 credits | *Total Learning Hours*                  | 150 |
 
 ## Aims
 
