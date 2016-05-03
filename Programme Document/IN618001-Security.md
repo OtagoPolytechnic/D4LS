@@ -9,16 +9,16 @@
 
 ## Aims
 
-To develop a working knowlege of security vulnerabilities that may be present 
+To develop a working knowledge of security vulnerabilities that may be present 
 in IT systems and measures to mitigate them.
 
 ## Learning Outcomes
 
 At the successful completion of the course, students will be able to:
 
-1. Analyse an aplication to identify its security vulnerabilities 
+1. Analyse an application to identify its security vulnerabilities 
 2. Discuss coding patterns that lead to security vulnerabilities
-3. Assess securtity risks in IT systems
+3. Assess security risks in IT systems
 4. Modify an application's source code to remove security vulnerabilities
 5. Configure common network services using secure practices
 
