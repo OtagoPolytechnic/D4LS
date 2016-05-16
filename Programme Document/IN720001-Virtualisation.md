@@ -16,13 +16,11 @@ of virtualised environments using current industry methods and tools.
 
 At the successful completion of the course, students will be able to:
 
-1. Analyse a problem and select appropratiate virtualisation technology to
-   solve it;
-2. Create and manage containers to perform various IT functions;
-3. Create and operate an online service using managed virualisation 
+1. Create and manage containers to perform various IT functions;
+2. Create and operate an online service using managed virtualisation 
    systems;
-4. Plan and create a privately hosted cloud service platform;
-5. Create and operate network services on a private cloud platform.
+3. Plan and create a privately hosted cloud service platform;
+4. Create and operate network services on a private cloud platform.
 
 ## Indicative Content
 
@@ -37,8 +35,8 @@ At the successful completion of the course, students will be able to:
 
 | **Assessment Activity**       | **Weighting** | **Learning Outcomes** |
 |-------------------------------|---------------|-----------------------|
-| Project Work                  | 80%           | 2,3,4,5               |
-| Exam                          | 20%           | 1,2,3,4,5             |
+| Project                       | 80%           | All                   |
+| Exam                          | 20%           | All                   |
 
 ---
 http://creativecommons.org/licenses/by-sa/4.0/
